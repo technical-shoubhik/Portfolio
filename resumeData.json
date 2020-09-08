@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Shoubhik Raj",
+    "occupation": "Full-Stack Web Developer, Programmer, Freelancer & Ofcourse a Student",
+    "description": "Love Programming and Exploring!",
+    "image": "IG_Sonny.jpeg",
+    "bio": "Hey there, this is Shoubhik!",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sonny@cleverprogrammer.com",
+    "phone": "+44 12 345 6789",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "London",
+      "state": "UK",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/technical_shoubhik/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/technical_shoubhik/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "DAV",
+        "degree": "Still Studying",
+        "graduated": "Still Studying",
+        "description": "Still Studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "None",
+        "title": "None",
+        "years": "None",
+        "description": "None"
+      },
+      {
+        "company": "None",
+        "title": "None",
+        "years": "None",
+        "description": "None"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "35%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tomato Food Delivery Site",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://github.com/technical-shoubhik/"
+      },
+      {
+        "title": "Coding Blog Site",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://github.com/technical-shoubhik/"
+      },
+      {
+        "title": "Parallax Site",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://github.com/technical-shoubhik/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sir, I am very happy to work with you. I am 100% satisfied with your work. Your way of working is very good sir. want to work with you for a long time. Thank you",
+        "user": "Firoz Sheikh"
+      }
+    ]
+  }
+}
